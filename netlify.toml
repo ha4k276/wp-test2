@@ -6,7 +6,7 @@
   to = "/.netlify/functions/index/:splat"
   status = 200
 [template.environment]
-  DATABASE = "MySQL database name here"
-  USERNAME = "MySQL database username here"
-  PASSWORD = "MySQL database password here"
-  HOST = "MySQL database host here"
+  DATABASE = "wp-test"
+  USERNAME = "ha4k276"
+  PASSWORD = "4ujFqYWIdNG6"
+  HOST = "ep-empty-voice-a21d4acy-pooler.eu-central-1.aws.neon.tech"
